@@ -2,7 +2,7 @@
 
 How to compile and minify a javascript code using Babel and Gulp.
 
-## Languages
+## Code languages
 
 Javascript, HTML and CSS
 
