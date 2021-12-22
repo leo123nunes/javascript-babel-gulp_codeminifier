@@ -2,15 +2,15 @@
 
 How to compile and minify a javascript code using Babel and Gulp.
 
-# Languages
+## Languages
 
 Javascript, HTML and CSS
 
-# IDE
+## IDE
 
 Visual Studio Code 1.49.3
 
-# Author
+## Author
 
 👤 **Leonardo Nunes de Oliveira**
 
